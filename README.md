@@ -10,6 +10,9 @@ This project is a Node.js application that fetches and serves dummy JSON data. T
 - Provides an API endpoint to retrieve data.
 - Supports filtering and sorting of data based on query parameters.
 - Includes API documentation accessible via Postman.
+
+# Video Demo
+  [Screencast from 01-08-24 11:08:19 PM IST.webm](https://github.com/user-attachments/assets/587bdfac-c4a6-4437-84a0-e9d937e39b3f)
   
 # Getting Started
 
